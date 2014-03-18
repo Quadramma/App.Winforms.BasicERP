@@ -1,0 +1,16 @@
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\bin\Debug\FacSistemaWinForm.exe.config
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\bin\Debug\FacSistemaWinForm.exe
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\bin\Debug\FacSistemaWinForm.pdb
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\obj\Debug\FacSistemaWinForm.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\obj\Debug\FacSistemaWinForm.csproj.GenerateResource.Cache
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\obj\Debug\FacSistemaWinForm.exe
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\obj\Debug\FacSistemaWinForm.pdb
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\obj\Debug\Fac.Forms.FrmLogin.resources
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\obj\Debug\Fac.Forms.FrmMain.resources
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\obj\Debug\Fac.Forms.Properties.Resources.resources
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\bin\Debug\MongoDB.Bson.dll
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\bin\Debug\MongoDB.Driver.dll
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\bin\Debug\MongoDB.Bson.xml
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\bin\Debug\MongoDB.Driver.xml
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\bin\Debug\ImpromptuInterface.dll
+D:\GoogleDrive\sistemas\FacSistemaWinForm\FacSistemaWinForm\bin\Debug\ImpromptuInterface.xml

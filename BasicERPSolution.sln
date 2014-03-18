@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicERP_Client", "BasicERP_Client\BasicERP_Client.csproj", "{219F5998-9E13-4C79-9609-C7BD2ECE6BEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicERP_Server", "BasicERP_Server\BasicERP_Server.csproj", "{11AB3BEE-D632-4461-8125-EC50CBB158E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicERP_Common", "BasicERP_Common\BasicERP_Common.csproj", "{8ACF68B2-1174-4470-9897-6CBB6E13D6BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219F5998-9E13-4C79-9609-C7BD2ECE6BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219F5998-9E13-4C79-9609-C7BD2ECE6BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219F5998-9E13-4C79-9609-C7BD2ECE6BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219F5998-9E13-4C79-9609-C7BD2ECE6BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AB3BEE-D632-4461-8125-EC50CBB158E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AB3BEE-D632-4461-8125-EC50CBB158E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AB3BEE-D632-4461-8125-EC50CBB158E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AB3BEE-D632-4461-8125-EC50CBB158E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ACF68B2-1174-4470-9897-6CBB6E13D6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACF68B2-1174-4470-9897-6CBB6E13D6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACF68B2-1174-4470-9897-6CBB6E13D6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACF68B2-1174-4470-9897-6CBB6E13D6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
